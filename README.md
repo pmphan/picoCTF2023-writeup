@@ -14,29 +14,29 @@ _Write up for picoCTF2023_
 
 |Challenge|Points|
 |---|---|
-|[two-sum](./binary_exploitation/two-sum/README.md)|100|
-|[babygame01](./binary_exploitation/babygame01/README.md)|100|
-|[VNE](./binary_exploitation/VNE/README.md)|200|
-|[hijacking](./binary_exploitation/hijacking/README.md)|200|
-|[tic-tac](./binary_exploitation/tic-tac/README.md)|200|
+|[two-sum](./binary_exploitation/two-sum/)|100|
+|[babygame01](./binary_exploitation/babygame01/)|100|
+|[VNE](./binary_exploitation/VNE/)|200|
+|[hijacking](./binary_exploitation/hijacking/)|200|
+|[tic-tac](./binary_exploitation/tic-tac/)|200|
 
 ### Cryptography
 
 |Challenge|Points|
 |---|---|
-|[HideToSee](./cryptography/HideToSee/README.md)|100|
-|[ReadMyCert](./cryptography/ReadMyCert/README.md)|100|
-|[rotation](./cryptography/rotation/README.md)|100|
+|[HideToSee](./cryptography/HideToSee/)|100|
+|[ReadMyCert](./cryptography/ReadMyCert/)|100|
+|[rotation](./cryptography/rotation/)|100|
 
 ### Forensics
 
 |Challenge|Points|
 |---|---|
-|[hideme]()|100|
-|[PcapPoisoning]()|100|
-|[who is it]()|100|
-|[FindAndOpen]()|200|
-|[MSB]()|200|
+|[hideme](./forensics/hideme/)|100|
+|[PcapPoisoning](./forensics/PcapPoisoning/)|100|
+|[who is it](./forensics/who_is_it/)|100|
+|[FindAndOpen](./forensics/FindAndOpen/)|200|
+|[MSB](./forensics/MSB/)|200|
 
 ### General Skills
 
