@@ -3,11 +3,10 @@ _Write up for picoCTF2023_
 
 ## Team
 
+- [Cubicatt](https://github.com/pmphan)
 - [NoughtHarbor](https://github.com/NoughtHarbor)
 - [jonessinger](https://play.picoctf.org/users/jonessinger)
 - [TheOneWhoBreaks](https://play.picoctf.org/users/TheOneWhoBreaks)
-- [amirshaikh382](https://play.picoctf.org/users/amirshaikh382)
-- [Cubicatt](https://github.com/pmphan)
 
 ## Challenges
 
@@ -17,6 +16,11 @@ _Write up for picoCTF2023_
 
 |Challenge|Points|
 |--------|------|
+|[babygame01](./binary_exploitation/babygame01/README.md)|100|
+|[two-sum](./binary_exploitation/two-sum/README.md)|100|
+|[hijacking](./binary_exploitation/hijacking/README.md)|200|
+|[tic-tac](./binary_exploitation/tic-tac/README.md)|200|
+|[VNE](./binary_exploitation/VNE/README.md)|200|
 
 </details>
 
