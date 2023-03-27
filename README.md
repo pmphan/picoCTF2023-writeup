@@ -10,76 +10,53 @@ _Write up for picoCTF2023_
 
 ## Challenges
 
-<details>
-
-<summary>Binary Exploitation</summary>
+### Binary Exploitation
 
 |Challenge|Points|
-|--------|------|
-|[babygame01](./binary_exploitation/babygame01/README.md)|100|
+|---|---|
 |[two-sum](./binary_exploitation/two-sum/README.md)|100|
+|[babygame01](./binary_exploitation/babygame01/README.md)|100|
+|[VNE](./binary_exploitation/VNE/README.md)|200|
 |[hijacking](./binary_exploitation/hijacking/README.md)|200|
 |[tic-tac](./binary_exploitation/tic-tac/README.md)|200|
-|[VNE](./binary_exploitation/VNE/README.md)|200|
 
-</details>
-
-<details>
-
-<summary>Cryptography</summary>
+### Cryptography
 
 |Challenge|Points|
-|--------|------|
+|---|---|
 |[HideToSee]()|100|
 |[ReadMyCert]()|100|
 |[rotation]()|100|
 
-</details>
-
-<details>
-
-<summary>Forensics</summary>
+### Forensics
 
 |Challenge|Points|
-|--------|------|
+|---|---|
 |[hideme]()|100|
 |[PcapPoisoning]()|100|
 |[who is it]()|100|
 |[FindAndOpen]()|200|
 |[MSB]()|200|
 
-</details>
-
-<details>
-
-<summary>General Skills</summary>
+### General Skills
 
 |Challenge|Points|
-|--------|------|
+|---|---|
 |[money-ware]()|100|
 |[Rule 2023]()|100|
 |[repetitions]()|100|
 
-</details>
-
-<details>
-
-<summary>Reverse Engineering</summary>
+### Reverse Engineering
 
 |Challenge|Points|
-|--------|------|
+|---|---|
 |[Reverse]()|100|
 |[Safe Opener 2]()|100|
 |[timer]()|100|
 
-</details>
-
-<details>
-
-<summary>Web Exploitation</summary>
+### Web Exploitation
 
 |Challenge|Points|
-|--------|------|
+|---|---|
 |[findme]()|100|
 
-</details>
