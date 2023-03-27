@@ -24,9 +24,9 @@ _Write up for picoCTF2023_
 
 |Challenge|Points|
 |---|---|
-|[HideToSee]()|100|
-|[ReadMyCert]()|100|
-|[rotation]()|100|
+|[HideToSee](./cryptography/HideToSee/README.md)|100|
+|[ReadMyCert](./cryptography/ReadMyCert/README.md)|100|
+|[rotation](./cryptography/rotation/README.md)|100|
 
 ### Forensics
 
