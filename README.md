@@ -14,37 +14,42 @@ _Write up for picoCTF2023_
 
 |Challenge|Points|
 |---|---|
-|[two-sum](./binary_exploitation/two-sum/)|100|
-|[babygame01](./binary_exploitation/babygame01/)|100|
-|[VNE](./binary_exploitation/VNE/)|200|
-|[hijacking](./binary_exploitation/hijacking/)|200|
-|[tic-tac](./binary_exploitation/tic-tac/)|200|
+|[two-sum](./binary_exploitation/two-sum)|100|
+|[babygame01](./binary_exploitation/babygame01)|100|
+|[VNE](./binary_exploitation/VNE)|200|
+|[hijacking](./binary_exploitation/hijacking)|200|
+|[tic-tac](./binary_exploitation/tic-tac)|200|
 
 ### Cryptography
 
 |Challenge|Points|
 |---|---|
-|[HideToSee](./cryptography/HideToSee/)|100|
-|[ReadMyCert](./cryptography/ReadMyCert/)|100|
-|[rotation](./cryptography/rotation/)|100|
+|[HideToSee](./cryptography/HideToSee)|100|
+|[ReadMyCert](./cryptography/ReadMyCert)|100|
+|[rotation](./cryptography/rotation)|100|
 
 ### Forensics
 
 |Challenge|Points|
 |---|---|
-|[hideme](./forensics/hideme/)|100|
-|[PcapPoisoning](./forensics/PcapPoisoning/)|100|
-|[who is it](./forensics/who_is_it/)|100|
-|[FindAndOpen](./forensics/FindAndOpen/)|200|
-|[MSB](./forensics/MSB/)|200|
+|[hideme](./forensics/hideme)|100|
+|[PcapPoisoning](./forensics/PcapPoisoning)|100|
+|[who is it](./forensics/who_is_it)|100|
+|[FindAndOpen](./forensics/FindAndOpen)|200|
+|[MSB](./forensics/MSB)|200|
 
 ### General Skills
 
 |Challenge|Points|
 |---|---|
-|[money-ware]()|100|
-|[Rule 2023]()|100|
-|[repetitions]()|100|
+|[money-ware](./general_skills/money-ware)|100|
+|[Rule 2023](./general_skills/Rule_2023)|100|
+|[repetitions](./general_skills/repetitions)|100|
+|[Permissions](./general_skills/Permissions)|100|
+|[chrono](./general_skills/chrono)|100|
+|[useless](./general_skills/useless)|100|
+|[Special](./general_skills/Special)|300|
+|[Specialer](./general_skills/Specialer)|400|
 
 ### Reverse Engineering
 
