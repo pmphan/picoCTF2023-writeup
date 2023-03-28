@@ -55,13 +55,21 @@ _Write up for picoCTF2023_
 
 |Challenge|Points|
 |---|---|
-|[Reverse]()|100|
-|[Safe Opener 2]()|100|
-|[timer]()|100|
+|[Reverse](./reverse_engineering/Reverse)|100|
+|[Safe Opener 2](./reverse_engineering/Safe_Opener_2)|100|
+|[timer](./reverse_engineering/timer)|100|
+|[Ready Gladiator 0](./reverse_engineering/Ready_Gladiator_0)|100|
+|[Virtual Machine 0](./reverse_engineering/Virtual_Machine_0)|100|
+|[Ready Gladiator 1](./reverse_engineering/Ready_Gladiator_1)|200|
+|[No way out](./reverse_engineering/No_way_out)|200|
+|[Ready_Gladiator_2](./reverse_engineering/Ready_Gladiator_2)|400|
 
 ### Web Exploitation
 
 |Challenge|Points|
 |---|---|
-|[findme]()|100|
-
+|[findme](./web_exploitation/findme)|100|
+|[MatchTheRegex](./web_exploitation/MatchTheRegex)|100|
+|[SOAP](./web_exploitation/SOAP)|100|
+|[More SQLi](./web_exploitation/More_SQLi)|200|
+|[Java Code Analysis!?!](./web_exploitation/Java_Code_Analysis)|300|
